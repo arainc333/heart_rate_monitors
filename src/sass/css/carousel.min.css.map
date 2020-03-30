@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,AAAC,CACN,OAAO,CAAE,MAAM,CAClB",
+    "sources": [
+        "../blocks/carousel.scss"
+    ],
+    "names": [],
+    "file": "carousel.min.css"
+}
